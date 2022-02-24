@@ -1,3 +1,3 @@
-# gentcent
+# 区块链solidity智能合约实现和前端调用helloworld
 hello.sol是智能合约部分，实现helloworld
 test.html是前端调用部分
